@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-03T22:54:13 EST" name="Default suite" finished-at="2022-12-03T22:54:45 EST" duration-ms="31416">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T22:54:13 EST" name="Default test" finished-at="2022-12-03T22:54:45 EST" duration-ms="31416">
+      <class name="com.testing.Test_Scenario_1">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:13 EST" name="launchBrowser" finished-at="2022-12-03T22:54:19 EST" duration-ms="5995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="TC001()[pri:1, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:19 EST" name="TC001" finished-at="2022-12-03T22:54:19 EST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method signature="TC002()[pri:2, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:19 EST" name="TC002" finished-at="2022-12-03T22:54:19 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method signature="TC003()[pri:3, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:19 EST" name="TC003" finished-at="2022-12-03T22:54:21 EST" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method signature="TC004()[pri:4, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:21 EST" name="TC004" finished-at="2022-12-03T22:54:23 EST" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method signature="TC005()[pri:5, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:23 EST" name="TC005" finished-at="2022-12-03T22:54:25 EST" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+        <test-method signature="TC006()[pri:6, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:25 EST" name="TC006" finished-at="2022-12-03T22:54:28 EST" duration-ms="2422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006 -->
+        <test-method signature="TC007()[pri:7, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:28 EST" name="TC007" finished-at="2022-12-03T22:54:33 EST" duration-ms="5266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007 -->
+        <test-method signature="TC008()[pri:8, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:33 EST" name="TC008" finished-at="2022-12-03T22:54:39 EST" duration-ms="6375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC008 -->
+        <test-method signature="TC009()[pri:9, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:39 EST" name="TC009" finished-at="2022-12-03T22:54:44 EST" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC009 -->
+        <test-method is-config="true" signature="terminateBrowser()[pri:0, instance:com.testing.Test_Scenario_1@58d75e99]" started-at="2022-12-03T22:54:44 EST" name="terminateBrowser" finished-at="2022-12-03T22:54:45 EST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.testing.Test_Scenario_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
